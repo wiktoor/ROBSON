@@ -1,0 +1,1 @@
+Program for my *Object Oriented Programming* class. My goal was to write an interpreter for a simple programming language. Instructions in this programming language are written in JSON format. An example of such a program is [fibonacci.json](fibonacci.json), which computes the n-th [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number).
